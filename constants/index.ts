@@ -188,6 +188,7 @@ export const navLinks = [
     color: "",
     prompt: "",
     publicId: "",
+    userId: ""
   };
   
   export const creditFee = -1;
